@@ -1,6 +1,6 @@
-# CSC370-202201 Assignment 4 Python Implementation
+# B+ Tree Python Implementation
 
-_This "starter" code provides the test harness for completing Assignment 2 in Python, which will be evaluated with the unittest Python module for unit testing. You should expand the test suite to ensure that your implementation passes not just the provided tests, but also other ones that could reasonably arise from the worksheets or lecture material. This repository is designed to facilitate test-driven development (TDD)._
+_This "starter" code provides the test harness for completing the assignment in Python, which will be evaluated with the unittest Python module for unit testing. You should expand the test suite to ensure that your implementation passes not just the provided tests, but also other ones that could reasonably arise from the worksheets or lecture material. This repository is designed to facilitate test-driven development (TDD)._
 
 ## Build Instructions
 
